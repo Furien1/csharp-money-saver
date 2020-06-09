@@ -1,0 +1,17 @@
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.csprojAssemblyReference.cache
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MainWindow.g.cs
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\App.g.cs
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver_MarkupCompile.cache
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver_MarkupCompile.lref
+D:\Dev\CSharp\MoneySaver\MoneySaver\bin\Debug\MoneySaver.exe.config
+D:\Dev\CSharp\MoneySaver\MoneySaver\bin\Debug\MoneySaver.exe
+D:\Dev\CSharp\MoneySaver\MoneySaver\bin\Debug\MoneySaver.pdb
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\TransactionDetails.g.cs
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MainWindow.baml
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\TransactionDetails.baml
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.g.resources
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.Properties.Resources.resources
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.csproj.GenerateResource.cache
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.csproj.CoreCompileInputs.cache
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.exe
+D:\Dev\CSharp\MoneySaver\MoneySaver\obj\Debug\MoneySaver.pdb
